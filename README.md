@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Nayeem Ahmmad 👋
+# Hi there, I'm Nayem Hawladar 👋
 
 ### CSE Student | Django Backend Developer | Competitive Programmer
 
@@ -73,7 +73,7 @@
 |----------|--------|------------|
 | Codeforces | nayeem17 | 1140 |
 | CodeChef | runtime17 | 1445 |
-| LeetCode | nayeem17 | — |
+| LeetCode | nayeem17 | 1470 |
 
 > 🔥 **1500+** problems solved across all platforms
 
