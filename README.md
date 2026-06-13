@@ -2,10 +2,11 @@
 
 # Hi there, I'm Nayem Hawladar 👋
 
-### CSE Student | Django Backend Developer | Competitive Programmer
+### Django Backend Developer | Competitive Programmer
 
 [![Codeforces](https://img.shields.io/badge/Codeforces-nayeem17-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/nayeem17)
 [![CodeChef](https://img.shields.io/badge/CodeChef-runtime17-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com/users/runtime17)
+
 [![LeetCode](https://img.shields.io/badge/LeetCode-nayeem17-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/nayeem17)
 [![GitHub](https://img.shields.io/badge/GitHub-Nayeem--Ahmmad-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nayeem-Ahmmad)
 
