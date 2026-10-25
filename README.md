@@ -6,10 +6,10 @@
 
 CSE Student at International Standard University, Dhaka, Bangladesh
 
-[Portfolio](https://nayeem-portfolio-five.vercel.app/) ·
-[LinkedIn](https://www.linkedin.com/in/nayem-hawladar/) ·
-[Facebook](https://www.facebook.com/nayeemahmmad17) ·
-[Email](mailto:nayeem.me.dev@outlook.com)
+<a href="https://nayeem-portfolio-five.vercel.app/">Portfolio</a> ·
+<a href="https://www.linkedin.com/in/nayem-hawladar/">LinkedIn</a> ·
+<a href="https://www.facebook.com/nayeemahmmad17">Facebook</a> ·
+<a href="mailto:nayeem.me.dev@outlook.com">Email</a>
 
 </div>
 
@@ -17,14 +17,32 @@ CSE Student at International Standard University, Dhaka, Bangladesh
 
 ## About
 
+<div align="center">
+
 I am a B.Sc. CSE student (CGPA 3.65/4.00) who builds backend systems with
 Django REST Framework and solves algorithmic problems competitively.
 I also mentor beginners in programming at ISU / Shohoj Coding.
 
-- Building full-stack projects with **Django REST Framework** and **React**
-- Solved **1500+** problems across Codeforces, CodeChef and LeetCode
-- **2nd Runner-Up**, ISU Inter-Department Programming Contest
-- Programming Mentor at **ISU / Shohoj Coding**
+</div>
+
+<table align="center">
+  <tr>
+    <td align="center"><b>Focus</b></td>
+    <td>Full-stack projects with Django REST Framework and React</td>
+  </tr>
+  <tr>
+    <td align="center"><b>Problem Solving</b></td>
+    <td>1500+ problems solved across Codeforces, CodeChef and LeetCode</td>
+  </tr>
+  <tr>
+    <td align="center"><b>Achievement</b></td>
+    <td>2nd Runner-Up, ISU Inter-Department Programming Contest</td>
+  </tr>
+  <tr>
+    <td align="center"><b>Mentoring</b></td>
+    <td>Programming Mentor at ISU / Shohoj Coding</td>
+  </tr>
+</table>
 
 ---
 
@@ -32,50 +50,93 @@ I also mentor beginners in programming at ISU / Shohoj Coding.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,c,py,java,js&perline=10" alt="Languages" />
-
-<img src="https://skillicons.dev/icons?i=django,react,tailwind,html,css&perline=10" alt="Web" />
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux&perline=10" alt="Tools" />
+<table align="center">
+  <tr>
+    <td align="center"><b>Languages</b></td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=cpp,c,py,java,js" alt="Languages" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Backend</b></td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=django" alt="Backend" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Frontend</b></td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=react,tailwind,html,css" alt="Frontend" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Tools</b></td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" alt="Tools" />
+    </td>
+  </tr>
+</table>
 
 </div>
-
-| Area | Technologies |
-|------|--------------|
-| Languages | C++, C, Python, Java, JavaScript |
-| Backend | Django, Django REST Framework |
-| Frontend | React, Tailwind CSS, HTML5, CSS3 |
-| Tools | Git, GitHub, VS Code, Linux |
 
 ---
 
 ## Featured Projects
 
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [**Wearify Sells**](https://wearifysells.vercel.app) | Full-stack e-commerce fashion platform | Django REST, React |
-| [**Developer Portfolio**](https://nayeem-portfolio-five.vercel.app/) | Interactive, scroll-based portfolio site | Django, DRF, React, Vite |
+<div align="center">
 
-> Project repository links: [github.com/Nayeem-Ahmmad?tab=repositories](https://github.com/Nayeem-Ahmmad?tab=repositories)
+<table align="center">
+  <tr>
+    <th align="center">Project</th>
+    <th align="center">Description</th>
+    <th align="center">Stack</th>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://wearifysells.vercel.app"><b>Wearify Sells</b></a></td>
+    <td align="center">Full-stack e-commerce fashion platform</td>
+    <td align="center">Django REST, React</td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://nayeem-portfolio-five.vercel.app/"><b>Developer Portfolio</b></a></td>
+    <td align="center">Interactive, scroll-based portfolio site</td>
+    <td align="center">Django, DRF, React, Vite</td>
+  </tr>
+</table>
+
+<sub>More projects: <a href="https://github.com/Nayeem-Ahmmad?tab=repositories">github.com/Nayeem-Ahmmad</a></sub>
+
+</div>
 
 ---
 
 ## Competitive Programming
 
-| Platform | Handle | Max Rating |
-|----------|--------|------------|
-| [Codeforces](https://codeforces.com/profile/nayeem17) | nayeem17 | 1140 |
-| [CodeChef](https://www.codechef.com/users/runtime17) | runtime17 | 1445 |
-| [LeetCode](https://leetcode.com/u/nayeem17) | nayeem17 | 1470 |
-
----
-
-## GitHub Stats
-
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Nayeem-Ahmmad&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nayeem-Ahmmad&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<table align="center">
+  <tr>
+    <th align="center">Platform</th>
+    <th align="center">Handle</th>
+    <th align="center">Max Rating</th>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://codeforces.com/profile/nayeem17">Codeforces</a></td>
+    <td align="center">nayeem17</td>
+    <td align="center">1140</td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://www.codechef.com/users/runtime17">CodeChef</a></td>
+    <td align="center">runtime17</td>
+    <td align="center">1445</td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://leetcode.com/u/nayeem17">LeetCode</a></td>
+    <td align="center">nayeem17</td>
+    <td align="center">1470</td>
+  </tr>
+</table>
+
+<sub>1500+ problems solved across all platforms</sub>
 
 </div>
 
@@ -85,10 +146,10 @@ I also mentor beginners in programming at ISU / Shohoj Coding.
 
 <div align="center">
 
-[![Facebook](https://img.shields.io/badge/Facebook-Nayeem_Ahmmad-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/nayeemahmmad17)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nayeem_Ahmmad-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nayem-hawladar/)
-[![Codeforces](https://img.shields.io/badge/Codeforces-nayeem17-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/nayeem17)
-[![LeetCode](https://img.shields.io/badge/LeetCode-nayeem17-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/nayeem17)
-[![CodeChef](https://img.shields.io/badge/CodeChef-runtime17-5B4638?style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com/users/runtime17)
+<a href="https://www.facebook.com/nayeemahmmad17"><img src="https://img.shields.io/badge/Facebook-Nayeem_Ahmmad-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" /></a>
+<a href="https://www.linkedin.com/in/nayem-hawladar/"><img src="https://img.shields.io/badge/LinkedIn-Nayeem_Ahmmad-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://codeforces.com/profile/nayeem17"><img src="https://img.shields.io/badge/Codeforces-nayeem17-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" alt="Codeforces" /></a>
+<a href="https://leetcode.com/u/nayeem17"><img src="https://img.shields.io/badge/LeetCode-nayeem17-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
+<a href="https://www.codechef.com/users/runtime17"><img src="https://img.shields.io/badge/CodeChef-runtime17-5B4638?style=flat-square&logo=codechef&logoColor=white" alt="CodeChef" /></a>
 
 </div>
